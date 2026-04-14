@@ -1,2 +1,3 @@
-# blnq-untitled-project1111
-Created with Blnq Studio
+# Untitled Project
+
+Created with [Blnq Studio](https://blnq.studio/e/V6BAXDf)
